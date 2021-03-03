@@ -1,4 +1,4 @@
-# Deepin 系统 编译 OpenRA 系统
+# Linux环境搭建
 
 参考: https://github.com/OpenRA/OpenRA/blob/bleed/INSTALL.md#linux
 
