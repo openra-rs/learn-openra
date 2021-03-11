@@ -10,14 +10,14 @@ Pls claim one or more subsystem listed below by modifying this README file and d
 - ecs 系统
 - player 系统
 - 游戏界面系统UI (Mike)
-- AI 寻路系统 
-- Network层功能设计，局域网和服务器网络系统(saberuster)
+- AI 寻路系统
+- Network层功能设计，局域网和服务器网络系统(saberuster, cmoigo)
 - 声音子系统
 - 地图子系统
 - 地图编辑器
-- 快捷键子系统 
+- 快捷键子系统
 - mod子系统（含lua脚本）
-- 测试子系统
+- 测试子系统(cmoigo)
 - 脚本子系统
 - 任务编排子系统（含lua脚本）
 - 文件存储、格式解析、缓存子系统
@@ -28,4 +28,3 @@ Pls claim one or more subsystem listed below by modifying this README file and d
 - 素材文件解析加载子系统
 
 Each item could be claime by more than one persons :D
-
