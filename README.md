@@ -6,12 +6,12 @@ The learning openra repository
 Pls claim one or more subsystem listed below by modifying this README file and do PR:
 
 - 游戏启动逻辑
-- 图形渲染-跨平台（含字体）
+- 图形渲染-跨平台（含字体）(saberuster)
 - ecs 系统
 - player 系统
 - 游戏界面系统UI (Mike)
 - AI 寻路系统 
-- Network层功能设计，局域网和服务器网络系统
+- Network层功能设计，局域网和服务器网络系统(saberuster)
 - 声音子系统
 - 地图子系统
 - 地图编辑器
