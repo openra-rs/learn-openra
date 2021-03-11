@@ -11,8 +11,7 @@ Pls claim one or more subsystem listed below by modifying this README file and d
 - player 系统
 - 游戏界面系统 
 - AI 寻路系统 
-- Network层功能设计
-- 局域网络对战系统
+- Network层功能设计，局域网和服务器网络系统
 - 声音子系统
 - 地图子系统
 - 地图编辑器
@@ -24,7 +23,7 @@ Pls claim one or more subsystem listed below by modifying this README file and d
 - 文件存储、格式解析、缓存子系统
 - 键盘鼠标输入子系统
 - 游戏指令子系统
-- 对战服务器子系统
+- 对战子系统
 - Actor子系统
 - 素材文件解析加载子系统
 
