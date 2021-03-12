@@ -10,7 +10,7 @@ This project aims to rewrite openra in Rust lang.
 Pls claim one or more subsystems listed below by modifying this README file and do PR:
 
 - game bootstrap logic
-- granphics rendering-cross platform (including fonts)(saberuster, 是帽不是猫)
+- granphics rendering-cross platform (including fonts)(saberuster, 是帽不是猫,num4)
 - ecs subsystem
 - player subsystem
 - game UI widgets (Mike)
@@ -29,7 +29,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - game directives
 - fighting subsystem
 - online fighting subsystem
-- Actor design
+- Actor design(num4)
 
 Each item could be claimed by more than one persons :D
 
