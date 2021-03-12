@@ -10,9 +10,9 @@ Pls claim one or more subsystem listed below by modifying this README file and d
 - ecs 系统
 - player 系统
 - 游戏界面系统UI (Mike)
-- AI 寻路系统
+- AI 寻路系统 (BluRadius)
 - Network层功能设计，局域网和服务器网络系统(saberuster, cmoigo)
-- 声音子系统
+- 声音子系统 (BluRadius)
 - 地图子系统
 - 地图编辑器
 - 快捷键子系统
