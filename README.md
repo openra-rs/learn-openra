@@ -6,7 +6,7 @@ The learning openra repository
 Pls claim one or more subsystems listed below by modifying this README file and do PR:
 
 - 游戏启动逻辑
-- 图形渲染-跨平台（含字体）(saberuster)
+- 图形渲染-跨平台（含字体）(saberuster, 是帽不是猫)
 - ecs 系统
 - player 系统
 - 游戏界面系统UI (Mike)
