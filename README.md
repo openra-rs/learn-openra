@@ -3,7 +3,7 @@ The learning openra repository
 
 ## Subsystems
 
-Pls claim one or more subsystem listed below by modifying this README file and do PR:
+Pls claim one or more subsystems listed below by modifying this README file and do PR:
 
 - 游戏启动逻辑
 - 图形渲染-跨平台（含字体）
@@ -27,5 +27,5 @@ Pls claim one or more subsystem listed below by modifying this README file and d
 - Actor子系统
 - 素材文件解析加载子系统
 
-Each item could be claime by more than one persons :D
+Each item could be claimed by more than one persons :D
 
