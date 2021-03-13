@@ -24,7 +24,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - testing (cmoigo)
 - scripting subsystem
 - task design and arragement subsystem (including lua script)
-- file, format, parsing
+- file, format, parsing (JoJo)
 - inputting, keyborad and mouse, cursor
 - game directives
 - fighting subsystem

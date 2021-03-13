@@ -20,7 +20,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - 测试子系统(cmoigo)
 - 脚本子系统
 - 任务编排子系统（含lua脚本）
-- 文件存储、格式解析、缓存子系统
+- 文件存储、格式解析、缓存子系统 (JoJo)
 - 键盘鼠标输入子系统
 - 游戏指令子系统
 - 对战子系统
