@@ -18,7 +18,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - Network layer, logic (saberuster, cmoigo, nintha)
 - audio subsystem (BluRadius)
 - map subsystem（是帽不是猫）
-- map editor
+- map editor(leanwy)
 - hotkey subsystem
 - mod subsystem (including lua script)
 - testing (cmoigo)
