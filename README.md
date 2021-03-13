@@ -10,7 +10,7 @@ This project aims to rewrite openra in Rust lang.
 Pls claim one or more subsystems listed below by modifying this README file and do PR:
 
 - game bootstrap logic(炸鸡)
-- granphics rendering-cross platform (including fonts)(saberuster, 是帽不是猫,num4)
+- granphics rendering-cross platform (including fonts)(saberuster, 是帽不是猫,num4,dunyi)
 - ecs subsystem
 - player subsystem
 - game UI widgets (Mike)
