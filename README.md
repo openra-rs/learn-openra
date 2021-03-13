@@ -15,7 +15,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - player subsystem
 - game UI widgets (Mike)
 - AI finding and others related (BluRadius, DawnMagnet)
-- Network layer, logic (saberuster, cmoigo, nintha, daozhu)
+- Network layer, logic (saberuster, cmoigo, nintha, daozhu，[LJason](https://github.com/LJason77))
 - audio subsystem (BluRadius)
 - map subsystem（是帽不是猫, birdinforst{weixin: Derek}）
 - map editor(leanwy)
