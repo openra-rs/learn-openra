@@ -17,7 +17,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - AI finding and others related (BluRadius, DawnMagnet)
 - Network layer, logic (saberuster, cmoigo, nintha)
 - audio subsystem (BluRadius)
-- map subsystem（是帽不是猫）
+- map subsystem（是帽不是猫，wzf）
 - map editor
 - hotkey subsystem
 - mod subsystem (including lua script)
