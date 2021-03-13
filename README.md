@@ -14,7 +14,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - ecs subsystem
 - player subsystem
 - game UI widgets (Mike)
-- AI finding and others related (BluRadius)
+- AI finding and others related (BluRadius, DawnMagnet)
 - Network layer, logic (saberuster, cmoigo)
 - audio subsystem (BluRadius)
 - map subsystem（是帽不是猫）
