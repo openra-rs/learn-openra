@@ -15,12 +15,12 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - player subsystem
 - game UI widgets (Mike)
 - AI finding and others related (BluRadius, DawnMagnet)
-- Network layer, logic (saberuster, cmoigo, nintha)
+- Network layer, logic (saberuster, cmoigo, nintha, daozhu)
 - audio subsystem (BluRadius)
 - map subsystem（是帽不是猫）
 - map editor
 - hotkey subsystem
-- mod subsystem (including lua script)
+- mod subsystem (including lua script)(daozhu)
 - testing (cmoigo)
 - scripting subsystem
 - task design and arragement subsystem (including lua script)
@@ -29,7 +29,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - game directives
 - fighting subsystem
 - online fighting subsystem
-- Actor design(num4)
+- Actor design(num4, daozhu)
 - model parsing and loading subsystem (是帽不是猫)
 
 Each item could be claimed by more than one persons :D
