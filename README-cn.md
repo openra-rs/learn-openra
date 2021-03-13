@@ -11,7 +11,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - player 系统
 - 游戏界面系统UI (Mike)
 - AI 寻路系统 (BluRadius, DawnMagnet)
-- Network层功能设计，局域网和服务器网络系统(saberuster, cmoigo, daozhu)
+- Network层功能设计，局域网和服务器网络系统(saberuster, cmoigo, daozhu，[LJason](https://github.com/LJason77))
 - 声音子系统 (BluRadius)
 - 地图子系统(是帽不是猫)
 - 地图编辑器(leanwy)
