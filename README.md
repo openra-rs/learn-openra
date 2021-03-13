@@ -17,7 +17,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - AI finding and others related (BluRadius)
 - Network layer, logic (saberuster, cmoigo)
 - audio subsystem (BluRadius)
-- map subsystem
+- map subsystem（是帽不是猫）
 - map editor
 - hotkey subsystem
 - mod subsystem (including lua script)
@@ -30,6 +30,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - fighting subsystem
 - online fighting subsystem
 - Actor design(num4)
+- model parsing and loading subsystem (是帽不是猫)
 
 Each item could be claimed by more than one persons :D
 
