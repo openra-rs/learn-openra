@@ -10,14 +10,14 @@ This project aims to rewrite openra in Rust lang.
 Pls claim one or more subsystems listed below by modifying this README file and do PR:
 
 - game bootstrap logic(炸鸡)
-- granphics rendering-cross platform (including fonts)(saberuster, 是帽不是猫,num4,dunyi)
+- graphic rendering-cross platform (including fonts)(saberuster, 是帽不是猫, num4, dunyi, birdinforest{weixin: Derek})
 - ecs subsystem
 - player subsystem
 - game UI widgets (Mike)
 - AI finding and others related (BluRadius, DawnMagnet)
 - Network layer, logic (saberuster, cmoigo, nintha, daozhu)
 - audio subsystem (BluRadius)
-- map subsystem（是帽不是猫）
+- map subsystem（是帽不是猫, birdinforst{weixin: Derek}）
 - map editor(leanwy)
 - hotkey subsystem
 - mod subsystem (including lua script)(daozhu)
