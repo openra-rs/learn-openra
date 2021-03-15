@@ -5,9 +5,9 @@ The learning openra repository
 
 This project aims to rewrite openra in Rust lang.
 
-## Subsystems
+## Subsystems and Task Claiming
 
-Pls claim one or more subsystems listed below by modifying this README file and do PR:
+Pls refer: [Task Claiming](https://github.com/openra-rs/learn-openra/discussions/42)
 
 - game bootstrap logic(炸鸡)
 - granphics rendering-cross platform (including fonts)(saberuster, 是帽不是猫,num4,dunyi)
