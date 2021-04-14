@@ -18,7 +18,7 @@ Pls claim one or more subsystems listed below by modifying this README file and 
 - 快捷键子系统
 - mod子系统（含lua脚本）(daozhu)
 - 测试子系统(cmoigo)
-- 脚本子系统
+- 脚本子系统([apeng2012](https://github.com/apeng2012))
 - 任务编排子系统（含lua脚本）
 - 文件存储、格式解析、缓存子系统 (JoJo)
 - 键盘鼠标输入子系统
