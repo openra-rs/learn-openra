@@ -172,11 +172,11 @@ The trait classes (both info class and impl class) inherits the `Actor` or `Acto
 
 ### `AttackLeapInfo`
 
-![OpenRA%20Mods%20&%20Traits%20985ae724f3974eeaab7a0804b70d18e4/Untitled.png](OpenRA%20Mods%20&%20Traits%20985ae724f3974eeaab7a0804b70d18e4/Untitled.png)
+![AttackLeapInfo](./imgs/AttackLeapInfo_UML.png)
 
 ### `AttackLeap`
 
-![OpenRA%20Mods%20&%20Traits%20985ae724f3974eeaab7a0804b70d18e4/Untitled%201.png](OpenRA%20Mods%20&%20Traits%20985ae724f3974eeaab7a0804b70d18e4/Untitled%201.png)
+![AttackLeap](./imgs/AttackLeap_UML.png)
 
 # Activity
 
