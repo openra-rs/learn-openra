@@ -1,0 +1,59 @@
+MapFormat: 11
+
+RequiresMod: ra
+
+Title: t5
+
+Author: apeng2012
+
+Tileset: SNOW
+
+MapSize: 32,32
+
+Bounds: 1,1,30,30
+
+Visibility: MissionSelector
+
+Categories: Campaign
+
+LockPreview: True
+
+Players:
+	PlayerReference@USSR:
+		Name: USSR
+		Bot: campaign
+		Faction: soviet
+		Color: FE1100
+		Enemies: Greece
+	PlayerReference@Neutral:
+		Name: Neutral
+		OwnsWorld: True
+		NonCombatant: True
+		Faction: allies
+	PlayerReference@Greece:
+		Name: Greece
+		AllowBots: False
+		Playable: True
+		Required: True
+		LockFaction: True
+		Faction: allies
+		LockColor: True
+		Color: ABB7E4
+		LockSpawn: True
+		LockTeam: True
+		Enemies: USSR
+
+Actors:
+	BaseCameraPoint: waypoint
+		Owner: Greece
+		Location: 15,15
+	Kennel: kenn
+		Owner: USSR
+		Location: 7,15
+	tanya: e7.noautotarget
+		Owner: Greece
+		Location: 16,15
+		SubCell: 3
+		Facing: 384
+
+Rules: ra|rules/campaign-rules.yaml, ra|rules/campaign-tooltips.yaml, ra|rules/campaign-palettes.yaml, rules.yaml
